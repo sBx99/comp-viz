@@ -19,3 +19,9 @@ newer version - `2021-version` branch
 7. Color Detection
 8. Contour / Shape Detection
 9. Face Detection
+
+## Projects
+
+1. Virtual Painting
+2. Paper Scanner
+3. Number Plate Detector
