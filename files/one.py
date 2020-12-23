@@ -2,7 +2,7 @@ import cv2
 
 # IMAGES
 def image():
-    img = cv2.imread('./assets/image.png')
+    img = cv2.imread('./assets/image.jpg')
     while True:
         cv2.imshow('image', img)
         if cv2.waitKey(1) & 0xFF == ord('q'):
